@@ -5,7 +5,7 @@
 
 - 🌱 Estou aprendendo sobre **IA, Inglês, Machine Learning**
 
-- 👨‍💻 Você encontra meus projetos [https://nikelo.webnode.page/](https://nikelo.webnode.page/)
+- 👨‍💻 Você encontra meus projetos https://nikelo.webnode.page/
 
 - 💬 Me pergunte sobre **IAs, algoritmo, Excel...**
 
